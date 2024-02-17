@@ -265,3 +265,11 @@ background: radial-gradient(circle, rgba(2,0,36,0.8128501400560224) 0%, rgba(36,
   background: rgb(252,148,4);
   background: linear-gradient(297deg, rgba(252,148,4,1) 54%, rgba(63,94,251,1) 55%, rgba(80,225,101,0.28343837535014005) 56%, rgba(65,63,251,1) 56%, rgba(252,70,107,1) 100%);
 }
+
+.aboutstyle{
+  background-color: rgb(231, 38, 38);
+  padding:0rem 9rem 0rem 9rem;
+  margin:auto;
+  text-align: justify;
+
+}
